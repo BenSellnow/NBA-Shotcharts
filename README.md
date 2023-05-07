@@ -19,4 +19,4 @@ Thank you for visiting NBA Shot Charts, and I hope you enjoy exploring the shoot
 ## 👏 Acknowledgements
 Credit to [hkair](https://github.com/hkair) for the shotcharts!
 
-![NBA shot chart](https://media.giphy.com/media/eqWdbfp9VGD4gwQrIK/giphy.gif)
+![](https://media.giphy.com/media/eqWdbfp9VGD4gwQrIK/giphy.gif)
