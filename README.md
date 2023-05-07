@@ -19,5 +19,5 @@ Thank you for visiting NBA Shot Charts, and I hope you enjoy exploring the shoot
 ## 👏 Acknowledgements
 Credit to [hkair](https://github.com/hkair) for the shotcharts!
 
-### 🎉 Enjoy
+## 🎉 Enjoy
 ![](https://github.com/BenSellnow/NBA-Shotcharts/blob/main/Giannis.gif)
